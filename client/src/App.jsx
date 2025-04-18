@@ -1,4 +1,3 @@
-import "./App.css";
 import FriendsPlaying from "./components/FriendsPlaying/FriendsPlaying.jsx";
 
 function App() {
